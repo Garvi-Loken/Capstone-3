@@ -1,0 +1,2 @@
+Berisikan file pkl dari google drive karena tidak bisa diupload di github (melebihi batas size)
+[Download best_model_rf_tuned.pkl](https://drive.google.com/file/d/1CiU3trw6XshpaMDDRRPw1iyt04N_2xZl/view?usp=sharing)
